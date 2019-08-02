@@ -3,4 +3,8 @@ Second line
 Third Line
 Fourth Line
 Update from server
+<<<<<<< HEAD
 Another Updae from Local
+=======
+Another from serverupdate
+>>>>>>> 15884f29b97721b227a4ce74fe9a76f306c76036
