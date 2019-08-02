@@ -10,3 +10,5 @@ Second rebase trial from server
 Second rebase trial from local
 WinMerge from local
 WinMerge tool apply from server
+trying winmerge settings
+
