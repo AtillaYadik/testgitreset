@@ -1,8 +1,0 @@
-Hello World
-<<<<<<< HEAD
-Second line
-Third Line
-Fourth Line
-=======
-Update from server
->>>>>>> 6b94ca573655ab36e2fd397290bb54b3d0ce4ba5
