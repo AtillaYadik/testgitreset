@@ -1,0 +1,15 @@
+From the server
+Another update from the server
+From the local
+From server update again
+Updating from local again.
+Another Update from local again.
+Giving a rebase trial from server
+Trying rebase from local
+Second rebase trial from server
+<<<<<<< HEAD
+Second rebase trial from local
+WinMerge from local
+=======
+WinMerge tool apply from server
+>>>>>>> f4986a84a306c3724bb2c6901b6c508b8912edc3
