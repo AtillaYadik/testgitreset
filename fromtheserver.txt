@@ -8,3 +8,4 @@ Giving a rebase trial from server
 Trying rebase from local
 Second rebase trial from server
 Second rebase trial from local
+WinMerge from local
